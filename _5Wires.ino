@@ -8,6 +8,7 @@
   
   Want to automate this puzzle?  
   Check out our website and let us know if you need help!
+  feedback@cluecontrol.com
   
   written and tested with Arduino 1.6.9
  
