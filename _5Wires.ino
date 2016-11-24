@@ -3,8 +3,11 @@
 /*
 
   5Wires- an Arduino Library for creating a "connect 5 wires" puzzle
-  Copyright (c) 2016 Shawn Yates
+  2016 Shawn Yates
   www.cluecontrol.com
+  
+  Want to automate this puzzle?  
+  Check out our website and let us know if you need help!
   
   written and tested with Arduino 1.6.9
  
